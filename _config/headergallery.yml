@@ -1,0 +1,8 @@
+---
+Name: header-gallery
+After: 'framework/*','cms/*'
+---
+
+Page:
+  extensions:
+    - HeaderGalleryExtension
