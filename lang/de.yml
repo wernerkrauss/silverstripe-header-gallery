@@ -1,0 +1,14 @@
+de:
+  HeaderGalleryExtension:
+    GalleryFieldTitle: 'Headergalerie'
+    GalleryTabName: 'Headergalerie'
+  HeaderGalleryImage:
+    PLURALNAME: 'Headergaleriebildr'
+    SINGULARNAME: 'Headergaleriebild'
+    db_Caption: Beschreibung
+    db_Copyright: Copyright
+    __db_SortOrder: 'Sort Order'
+    db_Title: Titel
+    has_one_Attachment: Bild
+    __has_one_ResourcePage: 'Resource Page'
+    __has_one_SiteConfig: 'Site Config'

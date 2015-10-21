@@ -1,0 +1,14 @@
+en:
+  HeaderGalleryExtension:
+    __GalleryFieldTitle: 'Gallery in header'
+    __GalleryTabName: 'Header Gallery'
+  HeaderGalleryImage:
+    __PLURALNAME: 'Header Gallery Images'
+    __SINGULARNAME: 'Header Gallery Image'
+    __db_Caption: Caption
+    __db_Copyright: Copyright
+    __db_SortOrder: 'Sort Order'
+    __db_Title: Title
+    __has_one_Attachment: Attachment
+    __has_one_ResourcePage: 'Resource Page'
+    __has_one_SiteConfig: 'Site Config'
