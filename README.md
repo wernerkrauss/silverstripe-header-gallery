@@ -6,8 +6,10 @@ Providing the data structure and an interface in CMS for managing header galleri
 
 Comes without any javascript for animation, use your favourite slideshow tool yourself.
 
-## Installation
+Just loop over `$HeaderPics` in your template and do whatever you want.
 
+## Installation
+composer require wernerkrauss/silverstripe-header-gallery
 
 ## Requirements
 * Silverstripe and Silverstripe CMS > 3.2, should work on 3.1 (untested)
