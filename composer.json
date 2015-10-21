@@ -25,8 +25,8 @@
     "undefinedoffset/sortablegridfield": "^0.5.0"
   },
   "suggest": {
-    "normann/gridfieldpaginatorwithshowall": "A GridField paginator with a show all checkbox"
-    "jonom/focuspoint": "cool stuff for "
+    "normann/gridfieldpaginatorwithshowall": "A GridField paginator with a show all checkbox",
+    "jonom/focuspoint": "Smarter automatic image cropping for SilverStripe"
   },
   "extra": {
     "installer-name": "header-gallery"
