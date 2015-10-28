@@ -1,6 +1,6 @@
 {
   "name": "wernerkrauss/silverstripe-header-gallery",
-  "description": "Rewrites all links for assets to use a cdn instead",
+  "description": "A simple gallery in the header for SilverStripe CMS",
   "type": "silverstripe-module",
   "keywords": [
     "silverstripe",
