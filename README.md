@@ -1,5 +1,7 @@
 # Silverstripe Header Gallery
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/wernerkrauss/silverstripe-header-gallery/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/wernerkrauss/silverstripe-header-gallery/?branch=master)
+
 Simple gallery for a header slideshow for SilverStripe sites.
 
 Providing the data structure and an interface in CMS for managing header galleries.
