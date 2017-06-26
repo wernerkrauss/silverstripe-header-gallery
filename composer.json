@@ -22,7 +22,7 @@
     "silverstripe/framework": "^3.2.0",
     "silverstripe/cms": "^3.2.0",
     "colymba/gridfield-gallery-theme": "^1.0.0",
-    "undefinedoffset/sortablegridfield": "^0.5.0"
+    "undefinedoffset/sortablegridfield": "^0.5.0 || ^0.6.0"
   },
   "suggest": {
     "normann/gridfieldpaginatorwithshowall": "A GridField paginator with a show all checkbox",
